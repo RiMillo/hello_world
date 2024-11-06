@@ -4,3 +4,4 @@ bird
 horse
 dolphin
 sloth
+cow
